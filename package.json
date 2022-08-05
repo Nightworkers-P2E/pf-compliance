@@ -1,0 +1,11 @@
+{
+  "name": "nightworkers-provably-fair-compliance",
+  "private": true,
+  "license": "UNLICENSED",
+    "dependencies": {
+    "ethers": "^5.6.9"
+  }
+  "engines": {
+    "node": ">=14.17.0"
+  }
+}
